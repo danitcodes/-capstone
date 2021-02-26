@@ -5,3 +5,8 @@
 8:30am - Informational interview/mentor check in with Kent Lottis.
 9:05am - Back at it - add project proposal to .md file.
 9:27am - Set up process management system with Monday, integrate to GitHub repo, & create life cycle rough draft.
+10:35am - E-commerce template research - Next.js focus.
+11:20am - Create Technology_notes.md file for pros/cons list on potential technologies to use.
+11:35am - Crystallize research, especially on order API.
+11:55am - Create Crystallize [account](https://pim.crystallize.com/) & join the Slack community.
+12:05pm - Create Vercel, BigCommerce accounts to clone Next.js Ecommerce [repo](https://github.com/danitcodes/vercel-ecommerce/tree/master/pages/api/bigcommerce).
