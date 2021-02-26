@@ -59,14 +59,14 @@ npx @crystallize/cli my-project
 
 4. Select the service API
 > At this point, you can select between our demo Service API or your own service API tenant.
-> 
+>
 > A [Service API is an open-source project that acts as backend for any of our open-source storefronts][25] that currently hndles the basket, the checkout, the authentication, webhooks, etc. You can modify and/or extended it as you like.
 > Deploy it to Vercel, Amazon Web Services, etc. (we're adding new provieders)
-> 
+>
 > Take into account that if you've selected your own tenant, you need to have your own service API
 > because our demo Service API doesn't support products with different shape/attributes.
-> 
-> To have your own Service API, you'll need to execute again, our CLI and select 
+>
+> To have your own Service API, you'll need to execute again, our CLI and select
 > the option "Service API - Backend for any of the frontends"
 
 Once your project has been created, you can simply navigate into your project's
