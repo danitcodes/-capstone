@@ -2,13 +2,15 @@
 
 ## Name of Student: Danielle Thompson
 
-## Project's Purpose: My idea is to create an immersive e-commerce site by creating a virtual, interactive tiki bar in a web application for the purpose of selling to go cocktails. (If you're in the Portland area, Hale Pele is the bar that inspired this idea.)
+## Project's Purpose
+
+My idea is to create an immersive e-commerce site by creating a virtual, interactive tiki bar in a web application for the purpose of selling to go cocktails. (If you're in the Portland area, Hale Pele is the bar that inspired this idea.)
 
 Obviously, covid has totally upturned my beloved service industry that I've spent so many years in, especially for bars/restaurants that are largely experiential in nature. Tiki bars are at the top of this list in my mind, as the main reason to visit one is all about the ambiance and experience - the music, the decor, the flaming drinks, the fish bowls beverage to share with friends, etc. My hope is to create a web application that helps to bridge the vast divide between customer and experience-driven bar to increase sales for such a bar during mandated quarantine.
 
 The two major pieces of this project are then 1) the e-commerce element and 2) the immersive element.
 
-## E-commerce
+### E-commerce
 
 The #1 thing that this app is for is for making online sales of to go beverages. I foresee this requiring the following pages ...
 
@@ -23,11 +25,17 @@ The #1 thing that this app is for is for making online sales of to go beverages.
 
 I'm starting to do some research on e-commerce templates available that are compatible with React (it looks like Bootstrap and Next.js might be viable options).
 
-Immersive. But nearly as important, especially if I want to make the project really stand out, is the immersive component.
+### Immersive
 
-I'm thinking that I want to implement parallax - to build out a kind of a 360 degree view point of a gamified, funky tiki bar front where you can "turn" to the left and see for example, a volcano that might explode or spit lava and smoke, or to the right and see a beach and ocean with a giant turtle or jumping fish. I'd like to have an ambient music toggle on the page to add in some of the kitschy noises (running on a loop) that one would hear in an in-person tiki bar (thunderstorms, monkeys, volcano blasts, etc.). If I can get to it I want to add at least 1-3 elements on the tiki bar that would move or have their own actions upon hover or interaction (a cocktail shaker shaking, for example) to add in a gamified element. As a stretch goal, it'd be ideal to incorporate an order form into the interactive elements to be able to dynamically add items to a shopping cart while tinkering with the tiki bar. I'm still doing some research for some animation and/or game libraries that would be the best fit for this project, and have a few more leads to follow. If either of you have suggestions I'm all ears, especially for the ambient music component.
+Nearly as important, especially if I want to make the project really stand out, is the immersive component.
 
-Based on the above goals, the absolute minimum features required are:
+I'm thinking that I want to implement parallax - to build out a kind of a 360 degree view point of a gamified, funky tiki bar front where you can "turn" to the left and see for example, a volcano that might explode or spit lava and smoke, or to the right and see a beach and ocean with a giant turtle or jumping fish. Alternatively, being able to zoom in/out on features might be another viable option, instead of a 360 degree view.
+
+I'd like to have an ambient music toggle on the page to add in some of the kitschy noises (running on a loop) that one would hear in an in-person tiki bar (thunderstorms, monkeys, volcano blasts, etc.). If I can get to it, I want to add at least 1-3 elements on the tiki bar that would move or have their own actions upon hover or interaction (a cocktail shaker shaking, for example) to add in a gamified element. As a stretch goal, it'd be ideal to incorporate an order form into the interactive elements to be able to dynamically add items to a shopping cart while tinkering with the tiki bar. I'm still doing some research for some animation and/or game libraries that would be the best fit for this project, and have a few more leads to follow.
+
+### MVP & Project Phases
+
+Based on the above goals, the minimum viable product features for the whole life cycle of the project are the following:
 
 - E-commerce site, with at least ...
   - an order form,
@@ -41,7 +49,21 @@ Based on the above goals, the absolute minimum features required are:
     - Cocktail shaker shaking upon user hover/click
     - Tropical thunderstorm that gets triggered upon doing X thing on the page
 
-## Tools, frameworks, libraries, APIs, modules and/or other resources:
+For the class five-day project, however, the MVP features outlined above realistically would be quite wieldy to accomplish. For the purposes of the class presentation and to consider what would be most important to a potential client, I will focus on the building out functionality for the actual selling of merchandise/products and roll out additional immersive and gamified features over time.
+
+_**Therefore, the MVP goals for the class project (phase 1) are the following:**_
+
+- Menu & order form
+- Shopping cart
+- Checkout page
+- Using Spotify Web Playlist API for looping tiki playlist
+- Crisp, tiki-themed UI/UX
+
+The more complete product life cycle will follow a schedule akin to the rough draft below.
+
+![Product Life Cycle Phases, Rough Draft](img/RoughDraft_ProductLifeCycle.png)
+
+### Tools, frameworks, libraries, APIs, modules and/or other resources
 
 React seems like a great tool for this app, likely with lots of Javascript and CSS/Sass.
 I might need an API if I can build out a database to support an inventory system around drinks available and orders getting added to a queue, etc.
