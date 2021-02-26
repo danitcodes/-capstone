@@ -1,4 +1,6 @@
-# Next.js (E-commerce opt)
+# Technology Notes for Planning Phase
+
+## Next.js (E-commerce opt)
 
 Pros:
 
@@ -15,3 +17,24 @@ Pros:
 - Vercel platform is easiest for deployment (developed by Next.js creators) - FREE
 - Can be deployed to any hosting provider that support Node.js too though
 - Pages feature
+- Authentication for (stretch) user accounts
+
+## Crystallize (Headless e-commerce - compatible with Next.js)
+
+Ref: [Crystallize](https://crystallize.com/learn/developer-guides)
+
+Pros:
+
+- Super fast & scalable
+- Bring your own front-end
+- **Slack community for developer Q's
+- Free tier would work for my purposes
+- Crystallize has this whole built GraphQL API for order intake and fulfillment.
+- [API learnin'](https://crystallize.com/learn/concepts/api)
+- **[The order API](https://crystallize.com/learn/developer-guides/order-api/the-order-object)
+
+## Vercel (all the things and deployment)
+
+See [account](https://vercel.com/danitcodes/tiki-ecommerce)
+
+- Getting a little too deep for the purposes of this project, but there it is anyways.
