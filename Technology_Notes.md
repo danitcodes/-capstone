@@ -38,3 +38,10 @@ Pros:
 See [account](https://vercel.com/danitcodes/tiki-ecommerce)
 
 - Getting a little too deep for the purposes of this project, but there it is anyways.
+
+## Mobile App Mockup Options
+
+- Framer (I think is affiliated with framer motion animations!)
+- Proto.io
+
+Both have built-in micro-animations capabilities and look smoother than Fluid, that I used for team week, or some of the other more wieldy options like XD.
