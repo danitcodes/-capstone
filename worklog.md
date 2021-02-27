@@ -2,7 +2,7 @@
 
 8:15am - Begin work log & create new local capstone folder.
 8:20am - Create GitHub repository for first draft of capstone materials, with MIT LICENSE file.
->>8:30am - Informational interview/mentor check in with Kent Lottis.
+>>8:30am - Informational interview/mentor check in with Kent Lottis at Nordstrom.
 9:05am - Back at it - add project proposal to .md file.
 9:27am - Set up process management system with Monday, integrate to GitHub repo, & create life cycle rough draft.
 10:35am - E-commerce template research - Next.js focus.
@@ -13,3 +13,6 @@
 >>12:15pm - Leave for lunch.
 1:15pm - Back at it from lunch. Create new Crystallize project `npx @crystallize/cli`.
 1:45pm - Familiar with Crystallize CPM Catalog & start adding products - issue with EUR default.
+2:15pm - Save product and styling images for use in Crystallize CPM & website UI.
+>>2:30pm - Informational interview w/April Leonard at GitHub.
+3:15pm - Back at it. Mobile prototype/web wireframe research.
