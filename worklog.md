@@ -30,3 +30,11 @@
 ---
 
 ![End of Day Catalog Progress](img/EndOfDayCatalog_2.26.21.png)
+
+>>3.1.21
+
+|  Time 	|  Task 	|
+|---	|---	|
+|  8:00pm 	|  Test wireframing with Framer. 	|
+|  9:00pm 	|  Work on fixing build error and further familiarizing with code and setting up Next.js in project. 	|
+|  9:30pm 	|  >>Clock out. 	|
