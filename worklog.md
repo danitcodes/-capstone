@@ -27,9 +27,9 @@
 |  5:00pm	|   Add pictures, prices, & size attributes to product catalog in Crystallize, add new product catalog items, create Modern Potions logo tees for catalog. Add MP logo to README & img folder.	|
 |  6:15pm	|   Clock out.	|
 
----
-
 ![End of Day Catalog Progress](img/EndOfDayCatalog_2.26.21.png)
+
+---
 
 >>3.1.21
 
@@ -38,3 +38,16 @@
 |  8:00pm 	|  Test wireframing with Framer. 	|
 |  9:00pm 	|  Work on fixing build error and further familiarizing with pre-built code, Next.js documentation, and setting up Next.js in project. 	|
 |  9:30pm 	|  >>Clock out. 	|
+
+---
+
+>>3.5.21
+
+|  Time 	|  Task 	|
+|---	|---	|
+|  8:15am 	|  Researching Spotify Web Playlist API integration to UI. 	|
+|  8:30am 	|  Work on getting Crystallize API keys into the correct .env files as per Next.js security standards. Likely will need to switch out of standard demo api to correctly deploy catalogue. 	|
+|  9:08am 	|  Watch and follow along with Crystallize [tutorial](https://www.youtube.com/watch?v=2ODHiq8yZjw&t=119s) for setting up website. 	|
+|  9:23am 	|  Reorganize Crystallize store into Shop folder with Beverages and Merch subfolders. Create _frontpage-2021 folder too to continue structuring content.	|
+|  10:00am 	|  Re-clone a boilerplate project with appropriate tenant information. 	|
+|  10:14am 	|  Update README installation instructions and technology list. 	|
