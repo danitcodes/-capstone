@@ -50,4 +50,20 @@
 |  9:08am 	|  Watch and follow along with Crystallize [tutorial](https://www.youtube.com/watch?v=2ODHiq8yZjw&t=119s) for setting up website. 	|
 |  9:23am 	|  Reorganize Crystallize store into Shop folder with Beverages and Merch subfolders. Create _frontpage-2021 folder too to continue structuring content.	|
 |  10:00am 	|  Re-clone a boilerplate project with appropriate tenant information. 	|
-|  10:14am 	|  Update README installation instructions and technology list. 	|
+|  10:14am 	|  Update README installation instructions and technology list, continue watching Crystallize tutorial. Re-clone troubleshooting. 	|
+|  11:00am 	|  >>Step away for errands and lunch. Deal with internship rankings. (Bad brain focus day. >.<)	|
+|  1:00pm 	|  >>Job search coaching hour with Kaila. 	|
+|  2:00pm 	|  Back to Crystallize ecommerce tutorials, adding more images, assets, documents for rendering, and organization to PIM catalogue for launch preparation. 	|
+|  3:20pm 	|  Track down more photo assets - especially tropical themed craft cocktails. 	|
+|  3:40pm 	|  Familiarize with documents and grids, and create three grids for products, single cocktails, and merch. 	|
+|  4:30pm 	|  Add additional document shapes for banners, carousels, and about components. 	|
+|  5:00pm 	|  >>Career services gear switch. 	|
+
+---
+
+>>3.7.21
+
+|  Time 	|  Task 	|
+|---	|---	|
+|  12:15pm 	|  Work on fixing npm err code 1 by downgrading to npm v6.14.9. Get tenant & env ids into appropriate places for front page build. 	|
+|  1:00pm 	|  Build out front page. 	|
