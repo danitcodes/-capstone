@@ -74,6 +74,7 @@ This application, FuzzBeed, is a site for users to create and take fun quizzes t
 - Crystallize Order API ???
 - BigCommerce ???
 - `npx @crystallize/cli my-project-name`
+- React Spotify Player v.1.0.4
 - webpack v5.11.1
 - Babel v.7.9.6
 - ESLint v.7.0.0
