@@ -11,6 +11,8 @@ function onPageLoad(){
 
 }
 
+
+
 function requestAuthorization(){
   client_id = document.getElementById("clientId").values;
   client_secret = document.getElementById("client_secret").value;
