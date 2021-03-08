@@ -1,18 +1,11 @@
-import SpotifyPlayer from 'react-spotify-player';
+import React from 'React';
 
-// size may also be a plain string using the presets 'large' or 'compact'
-const size = {
-  width: '100%',
-  height: 300,
-};
-const view = 'list'; // or 'coverart'
-const theme = 'black'; // or 'white'
-
-<SpotifyPlayer
-  uri="spotify:playlist:5wiP5B51Bn9Q9Fb3HwUbJ0"
-  size={size}
-  view={view}
-  theme={theme}
-/>
+function SpotifyPlayer() {
+  return (
+    <React.Fragment>
+      <iframe src="https://open.spotify.com/embed/playlist/5wiP5B51Bn9Q9Fb3HwUbJ0" width="300" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    </React.Fragment>
+  )
+}
 
 export default SpotifyPlayer;

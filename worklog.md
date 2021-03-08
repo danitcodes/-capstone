@@ -86,4 +86,5 @@
 
 |  Time 	|  Task 	|
 |---	|---	|
-|  8:00am 	|  TODO. 	|
+|  9:30am 	|  Research adding in animations with react-spring using Next.js. (Btws - it's not straightforward. See [here](https://ironeko.com/posts/animating-page-transitions-in-nextjs-for-capacitor/))	|
+|  10:15am 	|  GET SPOTIFY PLAYLIST WIDGET ON DOM - the easy way, no react-spotify-player needed!!! 🎉 	|
