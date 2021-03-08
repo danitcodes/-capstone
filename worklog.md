@@ -66,9 +66,7 @@
 |  Time 	|  Task 	|
 |---	|---	|
 |  12:15pm 	|  Work on fixing npm err code 1 by downgrading to npm v6.14.9. Get tenant & env ids into appropriate places for front page build. 	|
-<<<<<<< HEAD
 |  1:00pm 	|  Build out front page. Research adding in Spotify Player - begin new branch to attempt implementing feature. Follow tutorial to implement spotify api with next.js [here](https://leerob.io/blog/spotify-api-nextjs).	|
 |  2:15pm 	|  Successfully call Spotify API with Postman. Work on getting refresh token for [Spotify](https://developer.spotify.com/documentation/general/guides/authorization-guide/#list-of-scopes) Authorization Code Flow.	|
-=======
-|  1:00pm 	|  Build out front page. 	|
->>>>>>> 0248ed16694e5362de6726d670ea0c8f44cb7ec5
+|  3:15pm 	|  Omg Spotify APIs are so dense - more research, njtest/ subfolder (temporarily hidden b/c security keys are not yet secured) from Spotify's web API [example repo](https://github.com/spotify/web-api-auth-examples). Have to re-init capstone folder with Spotify repo clone. Accidentally add insecure files. Have to remove files from GitHub push. Lots of failed in-app testing.	|
+|  4:30pm 	|  This ish is TOO COMPLICATED RIGHT NOW. Try out a more vanilla version of using Spotify Web API based on [this tutorial] in spotify-web-api/ subfolder. Add dotenv for env key processing to secure app.	|
