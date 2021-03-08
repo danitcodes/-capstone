@@ -68,18 +68,17 @@ This application, FuzzBeed, is a site for users to create and take fun quizzes t
 - npm v.7.5.2
 - node.js v15.8.0
 - Next.js v.10.0.7
-- Vercel CLI, account, & deployment (?) (this was too much, but here's the template [repo](https://github.com/danitcodes/vercel-ecommerce) with automatic deployment)
-- Vercel E-commerce Template with Next.js
-- GraphQL backend
+- Crystallize E-commerce with Next.js + React
+- GraphQL backend ???
 - Crystallize Order API ???
-- BigCommerce ???
 - `npx @crystallize/cli my-project-name`
-- React Spotify Player v.1.0.4
+- Spotify
 - webpack v5.11.1
 - Babel v.7.9.6
 - ESLint v.7.0.0
 - Some graphics from [Hale Pele](halepele.com) & [MunkTiki](munktiki.com)
 - Some images from [Unsplash](unsplash.com)
+- [Canva](canva.com)
 
 ---
 
