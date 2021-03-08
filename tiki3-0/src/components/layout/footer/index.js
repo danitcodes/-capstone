@@ -17,7 +17,7 @@ export default function Footer() {
       <Link href="/">
         <a>
           <Logo>
-            <img src="/static/shop-logo.svg" alt="" width="56" height="84" />
+            <img src="/static/110x40_mp_logo.svg" alt="" width="300" height="200" />
           </Logo>
         </a>
       </Link>

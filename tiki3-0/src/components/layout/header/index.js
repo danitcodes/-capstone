@@ -40,7 +40,7 @@ export default function Header({ simple, preview }) {
       <Outer simple={simple}>
         <Link href="/" passHref>
           <Logo>
-            <img src="/static/shop-logo.svg" alt="" width="207" height="35" />
+            <img src="/static/110x40_mp_logo.svg" alt="" width="300" height="70" />
           </Logo>
         </Link>
         <Nav open={navOpen}>
