@@ -72,3 +72,5 @@
 |  4:30pm 	|  This ish is TOO COMPLICATED RIGHT NOW. Try out a more vanilla version of using Spotify Web API based on [this tutorial](https://www.youtube.com/watch?v=1vR3m0HupGI) in spotify-web-api/ subfolder. Add dotenv for env key processing to secure app.	|
 |  5:30pm 	|  Much wailing & gnashing of teeth with new tutorial. Form not showing. Fixed that eventually. Could get to "agree" to spotify conditions for login page upon form submission, but redirect page is failing despite several changes. WIP 	|
 |  6:25pm 	|  Fix redirect problem in separate folder after closing down multiple open servers and fixing redirect uri. 	|
+|  6:50pm 	|  Added more fxns to fetch access token, request & handle Spotify authorization, handle redirects to include local storage keys and a clean redirect URL. WIP - running up against a POST api problem - error 405 code. 	|
+|  7:15pm 	|  Run incident triage and log upon receiving GitGuardian email about accidentally pushed Spotify keys. Keys are all invalid now, but security checks for connected accounts etc were performed anyways.	|
