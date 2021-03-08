@@ -20,6 +20,8 @@ import {
   IconBar
 } from './styles';
 
+import SpotifyPlayer from './../../../page-components/spotify-player/spotify-player.js';
+
 export default function Header({ simple, preview }) {
   const { mainNavigation } = useSettings();
   const router = useRouter();
@@ -54,6 +56,7 @@ export default function Header({ simple, preview }) {
             ))}
           </NavList>
         </Nav>
+          <SpotifyPlayer/>
         <IconBar>
           <LocaleSwitcher />
           <Link href="/account">

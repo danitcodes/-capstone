@@ -8,8 +8,6 @@ import { simplyFetchFromGraph } from 'lib/graph';
 import { getLocaleFromContext, defaultLocale } from 'lib/app-config';
 import { I18nextProvider } from 'lib/i18n';
 
-import SpotifyPlayer from '../page-components/spotify-player/spotify-player';
-
 const queryClient = new QueryClient();
 
 function MyApp({ Component, pageProps, commonData }) {
@@ -42,7 +40,6 @@ function MyApp({ Component, pageProps, commonData }) {
             <AuthProvider>
               <BasketProvider locale={locale}>
                 <Component {...pageProps} />
-                <SpotifyPlayer/>
               </BasketProvider>
             </AuthProvider>
           </SettingsProvider>

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Pintrest, LinkedIn, Facebook, Twitter } from './icons';
+import { LinkedIn, Facebook, Twitter } from './icons';
 import { Outer, Btn } from './styles';
 
 export default function SocialBar() {
@@ -10,9 +10,6 @@ export default function SocialBar() {
       </Btn>
       <Btn>
         <Facebook />
-      </Btn>
-      <Btn>
-        <Pintrest />
       </Btn>
       <Btn>
         <LinkedIn />
