@@ -8,6 +8,16 @@ import { simplyFetchFromGraph } from 'lib/graph';
 import { getLocaleFromContext, defaultLocale } from 'lib/app-config';
 import { I18nextProvider } from 'lib/i18n';
 
+<<<<<<< HEAD
+=======
+import React, { Component } from "react";
+import hash from "./hash";
+import logo from "./logo.sv";
+import "./App.css";
+
+export const authEndpoint = 'https://accounts.spotify.com/authorize';
+
+>>>>>>> 0248ed16694e5362de6726d670ea0c8f44cb7ec5
 const queryClient = new QueryClient();
 
 function MyApp({ Component, pageProps, commonData }) {
