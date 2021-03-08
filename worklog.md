@@ -87,4 +87,8 @@
 |  Time 	|  Task 	|
 |---	|---	|
 |  9:30am 	|  Research adding in animations with react-spring using Next.js. (Btws - it's not straightforward. See [here](https://ironeko.com/posts/animating-page-transitions-in-nextjs-for-capacitor/))	|
-|  10:15am 	|  GET SPOTIFY PLAYLIST WIDGET ON DOM - the easy way, no react-spotify-player needed!!! 🎉 	|
+|  10:20am 	|  GET SPOTIFY PLAYLIST WIDGET ON DOM - the easy way, no react-spotify-player needed!!! 🎉 	|
+|  10:30am 	|  Start re-watching Crystallize tutorial. Begin watching middleware/Service API [tutorial](https://www.youtube.com/watch?v=Jse0uSn2Pps&list=PLiKqsi6CxPy4_za4hNzV4N079OUGeF292&index=3) 	|
+|  11:20am 	|  Build out splash page in PIM. Start watching Vectr tutorial for Modern Potions logo creation. Create Modern Potions typography logo.	|
+|  12:15am 	|  >>Lunch.	|
+|  12:45am 	|  Back at it. Detail work on splash page.	|

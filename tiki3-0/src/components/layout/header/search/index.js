@@ -137,7 +137,7 @@ export default function Search() {
       </Btn>
       <SearchWrapper isOpen={isOpen}>
         <Outer ref={outerRef}>
-          <SearchLabel>{t('layout.searchPlaceholder')}</SearchLabel>
+          <SearchLabel>{t('Search Modern Potions')}</SearchLabel>
           <InputGroup as="form" method="get" role="search" onSubmit={onSubmit}>
             <Input
               ref={searchInput}
@@ -147,7 +147,7 @@ export default function Search() {
               onChange={(e) =>
                 dispatch({ action: 'setSearchTerm', value: e.target.value })
               }
-              placeholder={t('layout.searchPlaceholder')}
+              placeholder={t('Find cool things ...')}
               aria-label={t('search.label')}
             />
             {status === 'searching' && <InputSpinner />}
