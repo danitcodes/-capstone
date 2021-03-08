@@ -1,7 +1,9 @@
-var redirect_uri = "http://127.0.0.1:5500/spotify-web-api/index.html";
+require('dotenv').config();
 
-var client_id = "5b87d5012c5e431c916e518affe85b26";
-var client_secret = "4121a8b314bd4150ac9a8f4896b234b4";
+var redirect_uri = `${process.env.REDIRECT_URI}`;
+
+var client_id = `${process.env.CLIENT_ID}`;
+var client_secret = `${process.env.CLIENT_SECRET}`;
 
 const AUTHORIZE = "https://accounts.spotify.com/authorize"
 
