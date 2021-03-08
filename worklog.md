@@ -74,3 +74,5 @@
 |  6:25pm 	|  Fix redirect problem in separate folder after closing down multiple open servers and fixing redirect uri. 	|
 |  6:50pm 	|  Added more fxns to fetch access token, request & handle Spotify authorization, handle redirects to include local storage keys and a clean redirect URL. WIP - running up against a POST api problem - error 405 code. 	|
 |  7:15pm 	|  Run incident triage and log upon receiving GitGuardian email about accidentally pushed Spotify keys. Keys are all invalid now, but security checks for connected accounts etc were performed anyways.	|
+|  8:15pm 	|  >>Break.	|
+|  9:15pm 	|  Spotify POST troubleshooting cont.	|
