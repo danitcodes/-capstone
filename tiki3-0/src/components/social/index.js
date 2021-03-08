@@ -1,15 +1,18 @@
 import React from 'react';
-import { LinkedIn, Facebook, Twitter } from './icons';
+import { LinkedIn, Twitter, Instagram, GitHub } from './icons';
 import { Outer, Btn } from './styles';
 
 export default function SocialBar() {
   return (
     <Outer>
       <Btn>
-        <Twitter />
+        <Instagram />
       </Btn>
       <Btn>
-        <Facebook />
+        <GitHub />
+      </Btn>
+      <Btn>
+        <Twitter />
       </Btn>
       <Btn>
         <LinkedIn />

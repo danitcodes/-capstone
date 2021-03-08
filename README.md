@@ -78,7 +78,9 @@ This application, FuzzBeed, is a site for users to create and take fun quizzes t
 - ESLint v.7.0.0
 - Some graphics from [Hale Pele](halepele.com) & [MunkTiki](munktiki.com)
 - Some images from [Unsplash](unsplash.com)
-- [Canva](canva.com)
+- [Canva](canva.com) - Modern Potions typography
+- [Pexels](pexels.com) - videos
+- [Nifty Buttons](https://www.niftybuttons.com/) - svg social media icons
 
 ---
 
