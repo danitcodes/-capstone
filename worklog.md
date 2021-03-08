@@ -75,4 +75,15 @@
 |  6:50pm 	|  Added more fxns to fetch access token, request & handle Spotify authorization, handle redirects to include local storage keys and a clean redirect URL. WIP - running up against a POST api problem - error 405 code. 	|
 |  7:15pm 	|  Run incident triage and log upon receiving GitGuardian email about accidentally pushed Spotify keys. Keys are all invalid now, but security checks for connected accounts etc were performed anyways.	|
 |  8:15pm 	|  >>Break.	|
-|  9:15pm 	|  Spotify POST troubleshooting cont.	|
+|  9:15pm 	|  Spotify POST troubleshooting cont. No luck (yet) - POST request fails with 400 error code.	|
+|  10:30pm 	|  WIP -begin to switch gears back to integrate react-spotify-player to embed a widget instead of using the Spotify API.	|
+|  11:00pm 	|  >>Clock out.	|
+
+---
+
+>>3.8.21
+
+
+|  Time 	|  Task 	|
+|---	|---	|
+|  8:00am 	|  TODO. 	|
