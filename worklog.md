@@ -97,3 +97,12 @@
 |  5:05pm 	|  >>Break.	|
 |  7:00pm 	|  Back at it. Canva designing hopeful background for site based on [this pattern](https://dribbble.com/shots/14401526-Tropical-Floral-Seamless-pattern). Tropical background created, but research making svg images into React page backgrounds is dense, several implementations with svg & png have not been successful - WIP. Update unicorn juice photo & N/A price in PIM. Make README more legit with proper description, detailed setup instructions (WIP for Crystallize account info), dropdowns with code snippets, add and size images, add stretch goals, user stories.	|
 |  10:00pm 	|  >>Clock out.	|
+
+
+>>3.8.21
+
+
+|  Time 	|  Task 	|
+|---	|---	|
+|  8:30am 	|  Getting started. Fight with grids and shapes more. Add to content descriptions, summaries, photos, variants, subscriptions, etc.	|
+|  9:42am 	|  Problems with saving content for subscriptions in PIM.	|
