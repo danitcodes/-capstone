@@ -7,7 +7,7 @@ import { BasketProvider } from 'components/basket';
 import { simplyFetchFromGraph } from 'lib/graph';
 import { getLocaleFromContext, defaultLocale } from 'lib/app-config';
 import { I18nextProvider } from 'lib/i18n';
-// import { TikiBackground } from '../../img/MP-immersive.svg';
+// import { TikiBackground } from '../../img/MP-immersive.png';
 
 const queryClient = new QueryClient();
 
