@@ -1,22 +1,20 @@
 export function IconLinkedIn() {
   return (
-    <svg
-      version="1.1"
-      id="Layer_1"
-      xmlns="http://www.w3.org/2000/svg"
-      x="0px"
-      y="0px"
-      width="50px"
-      height="50px"
-      viewBox="0 0 50 50"
-    >
-      <path
-        fill="#333333"
-        d="M20.907,19.217c0,1.088-0.875,1.969-1.954,1.969c-1.078,0-1.953-0.881-1.953-1.969
-      c0-1.086,0.875-1.967,1.953-1.967C20.032,17.25,20.907,18.131,20.907,19.217z M20.621,22.582h-3.303V33.25h3.303V22.582z
-       M25.901,22.582h-3.168V33.25h3.168c0,0,0-3.957,0-5.6c0-1.5,0.69-2.393,2.013-2.393c1.215,0,1.798,0.857,1.798,2.393s0,5.6,0,5.6
-      H33c0,0,0-3.896,0-6.754s-1.62-4.238-3.883-4.238s-3.216,1.762-3.216,1.762V22.582L25.901,22.582z"
-      />
-    </svg>
+    <div style="display:flex;flex-wrap:wrap">
+      <a href="https://www.linkedin.com/in/danielle-thompson74/"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="text-decoration:none;border:0;width:36px;height:36px;padding:0;margin:3px;color:#070707;">
+        <svg className="niftybutton-linkedin"
+        style="display:block;fill:currentColor"
+        data-donate="true"
+        data-tag="lin"
+        data-name="LinkedIn"
+        viewBox="0 0 512 512"
+        preserveAspectRatio="xMidYMid meet">
+          <path d="M186.4 142.4c0 19-15.3 34.5-34.2 34.5 -18.9 0-34.2-15.4-34.2-34.5 0-19 15.3-34.5 34.2-34.5C171.1 107.9 186.4 123.4 186.4 142.4zM181.4 201.3h-57.8V388.1h57.8V201.3zM273.8 201.3h-55.4V388.1h55.4c0 0 0-69.3 0-98 0-26.3 12.1-41.9 35.2-41.9 21.3 0 31.5 15 31.5 41.9 0 26.9 0 98 0 98h57.5c0 0 0-68.2 0-118.3 0-50-28.3-74.2-68-74.2 -39.6 0-56.3 30.9-56.3 30.9v-25.2H273.8z"></path>
+        </svg>
+      </a>
+    </div>
   );
 }
