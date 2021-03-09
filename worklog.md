@@ -95,4 +95,4 @@
 |  3:45pm 	|  >>Career services mtg.	|
 |  4:15pm 	|  UI research - color palette work, page animation refresher course, next.js styling research, tropical theme background planning.	|
 |  5:05pm 	|  >>Break.	|
-|  7:00pm 	|  Back at it.	|
+|  7:00pm 	|  Back at it. Canva designing hopeful background for site based on [this pattern](https://dribbble.com/shots/14401526-Tropical-Floral-Seamless-pattern).	|
