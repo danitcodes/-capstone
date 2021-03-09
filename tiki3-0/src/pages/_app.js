@@ -7,6 +7,7 @@ import { BasketProvider } from 'components/basket';
 import { simplyFetchFromGraph } from 'lib/graph';
 import { getLocaleFromContext, defaultLocale } from 'lib/app-config';
 import { I18nextProvider } from 'lib/i18n';
+// import { TikiBackground } from '../../img/MP-immersive.svg';
 
 const queryClient = new QueryClient();
 
@@ -39,7 +40,13 @@ function MyApp({ Component, pageProps, commonData }) {
           <SettingsProvider mainNavigation={mainNavigation}>
             <AuthProvider>
               <BasketProvider locale={locale}>
-                <Component {...pageProps} />
+                <Component {...pageProps}
+                    // style={{
+                    //   backgroundImage: `${TikiBackground}`,
+                    //   backgroundRepeat: 'no-repeat',
+                    //   backgroundAttachment: 'fixed'
+                    // }}
+                  />
               </BasketProvider>
             </AuthProvider>
           </SettingsProvider>

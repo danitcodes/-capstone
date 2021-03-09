@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 import { Image } from '@crystallize/react-image';
+// import { TikiBackground } from '../../../../img/MP-immersive'
 
 import { Inner as I, responsive } from 'ui';
 
