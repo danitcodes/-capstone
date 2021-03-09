@@ -22,7 +22,7 @@ TODO : add [shields](https://shields.io/)
 
 ### Known Bugs
 
-_No known bugs at this time._
+_Oh, plenty. WIP._
 
 [Report bugs here.](https://github.com/danitcodes/-capstone/issues) | [Request features here.](https://github.com/danitcodes/-capstone/issues)
 
@@ -30,13 +30,13 @@ ___
 
 ## Description
 
-This application, FuzzBeed, is a site for users to create and take fun quizzes that can be shared with **the world**!
+Modern Potions is an immersive e-commerce application for a tiki bar to be able to sell merchandise, to go cocktail kits, and cocktail subscriptions. Getting the e-commerce portion of the project fully up and running is the major first phase, which you will currently see reflected in the site. More immersive, elements let interactive animations will be added in additional feature rollouts.
 
 <div align="center">
 
-## Component Diagram
+## Background Preview
 
-![Tap Room File Tree](https://i.postimg.cc/BnXjV00P/Tap-Room-File-Tree.png)
+<img src="tiki3-0/img/MP-immersive.png" alt="Back drop preview for webpage" width="550px" height="auto">
 
 </div>
 
@@ -46,17 +46,16 @@ This application, FuzzBeed, is a site for users to create and take fun quizzes t
 
 |  # 	|  Stories 	|
 |---	|---	|
-|  1 	|  A user should be able to create, update and delete a survey. All surveys should be stored in the database. 	|
-|  2 	|   A user should be able to fill out and submit surveys. Survey results should be submitted to the database. 	|
-|  3 	|   A user should be able to sign up, sign in, and sign out.	|
-|  4 	|   A user should have their own dashboard which lists the surveys they've created.	|
+|  1 	|  A user should be able view a vibrant, visual splash page with links to additional pages, shopping cart, account, etc. 	|
+|  2 	|   A user should be able to add products to a shopping cart for purchase. 	|
 
 ---
 
 ### Stretch Goals
 
-- TODO
-- TODO
+- Add in account registering, log in, and log out functionality to save information for future orders.
+- Learn and utilize built-in SEO functionality.
+- Add page for interactive tiki elements.
 
 ### Technologies Used
 
@@ -78,7 +77,7 @@ This application, FuzzBeed, is a site for users to create and take fun quizzes t
 - ESLint v.7.0.0
 - Some graphics from [Hale Pele](halepele.com) & [MunkTiki](munktiki.com)
 - Some images from [Unsplash](unsplash.com)
-- [Canva](canva.com) - Modern Potions typography
+- [Canva](canva.com) - Modern Potions typography, splash page backdrop
 - [Pexels](pexels.com) - videos
 - [Nifty Buttons](https://www.niftybuttons.com/) - svg social media icons
 
@@ -109,16 +108,297 @@ This application, FuzzBeed, is a site for users to create and take fun quizzes t
 
 ###### Cloning the Project
 
-- Go to this [GitHub repository](https://github.com/dani-t-codes/capstone) and click the green 'Code' button.
+- Go to this [GitHub repository](https://github.com/danitcodes/-capstone) and click the green 'Code' button.
 ![Green Code Button](src/components/img/code-button.png)
-- In your CLI, after navigating to the Desktop with `cd Desktop`, clone this application with the following command:`git clone https://github.com/dani-t-codes/capstone.git`.
+- In your CLI, after navigating to the Desktop with `cd Desktop`, clone this application with the following command:`git clone https://github.com/danitcodes/-capstone.git`.
 - (Optional) If you would like to save your own copy to your GitHub account, click the "Fork" button in the upper right hand corner of the main repository page.
 - Navigate to the folder 'capstone' from your CLI with the command `cd capstone`.
 - Open the project in the code editing application of your choice, like VS Code, by running the command `code .`.
 
+###### Additional Files Needed for Project to Run
+
+Additionally, a file will also need to be added to the tiki3-0/_repo-utils folder.
+
+- Name the file 'bootstrap-tiki-shapes.js'.
+- Next add in the following code snippet:
+
+    <details>
+      <summary>Code snippet here.</summary>
+
+    ```js
+    /**
+     * When run, this file will inject shapes to your tenant that is required for the
+    * frntr boilerplate to look properly
+    */
+
+    //Your tenant id (not identifier). See the tenant tab https://pim.crystallize.com/settings/tenants
+    const TENANT_ID = 'YOUR-TENENT-ID-HERE';
+
+    // Add your tokens https://pim.crystallize.com/settings/access-tokens
+    const ACCESS_TOKEN_ID = 'YOUR-ACCESS-TOKEN-HERE';
+    const ACCESS_TOKEN_SECRET = 'YOUR-ACCESS-TOKEN-SECRET-HERE';
+
+    const coreUrl = 'https://pim.crystallize.com/graphql';
+    const fetch = require('node-fetch');
+
+    const {
+      buildCreateShapeMutation,
+      shapeTypes,
+      componentTypes
+    } = require('@crystallize/import-utilities');
+
+    const Product = {
+      tenantId: TENANT_ID,
+      name: 'Product',
+      identifier: 'frntr-product',
+      type: shapeTypes.product,
+      components: [
+        {
+          id: 'summary',
+          name: 'Summary',
+          type: componentTypes.richText
+        },
+        {
+          id: 'Specs',
+          name: 'Specs',
+          type: componentTypes.propertiesTable
+        },
+        {
+          id: 'description',
+          name: 'Description',
+          type: componentTypes.paragraphCollection
+        },
+        {
+          id: 'related-products',
+          name: 'Related products',
+          type: componentTypes.itemRelations
+        }
+      ]
+    };
+
+    const Folder = {
+      tenantId: TENANT_ID,
+      name: 'Folder',
+      identifier: 'frntr-folder',
+      type: shapeTypes.folder,
+      components: [
+        {
+          id: 'title',
+          name: 'Title',
+          type: componentTypes.singleLine
+        },
+        {
+          id: 'brief',
+          name: 'Brief',
+          type: componentTypes.richText
+        },
+        {
+          id: 'body',
+          name: 'Body',
+          type: componentTypes.paragraphCollection
+        },
+        {
+          id: 'stackable-content',
+          name: 'Stackable content',
+          type: componentTypes.itemRelations
+        }
+      ]
+    };
+
+    const Article = {
+      tenantId: TENANT_ID,
+      name: 'Article',
+      identifier: 'frntr-article',
+      type: shapeTypes.document,
+      components: [
+        {
+          id: 'title',
+          name: 'Title',
+          type: componentTypes.singleLine
+        },
+        {
+          id: 'image',
+          name: 'Image',
+          type: componentTypes.images
+        },
+        {
+          id: 'intro',
+          name: 'Intro',
+          type: componentTypes.richText
+        },
+        {
+          id: 'body',
+          name: 'Body',
+          type: componentTypes.paragraphCollection
+        },
+        {
+          id: 'video',
+          name: 'Video',
+          type: componentTypes.videos
+        },
+        {
+          id: 'featured',
+          name: 'Featured',
+          type: componentTypes.itemRelations
+        }
+      ]
+    };
+
+    const Banner = {
+      tenantId: TENANT_ID,
+      name: 'Banner',
+      identifier: 'frntr-banner',
+      type: shapeTypes.document,
+      components: [
+        {
+          id: 'title',
+          name: 'Title',
+          type: componentTypes.singleLine
+        },
+        {
+          id: 'description',
+          name: 'Description',
+          type: componentTypes.richText
+        },
+        {
+          id: 'link',
+          name: 'Link',
+          type: componentTypes.singleLine
+        },
+        {
+          id: 'link-text',
+          name: 'Link text',
+          type: componentTypes.singleLine
+        },
+        {
+          id: 'image',
+          name: 'Image',
+          type: componentTypes.images
+        },
+        {
+          id: 'add-text-as-overlay',
+          name: 'Add text as overlay',
+          type: componentTypes.boolean
+        }
+      ]
+    };
+
+    const Collection = {
+      tenantId: TENANT_ID,
+      name: 'Collection',
+      identifier: 'frntr-collection',
+      type: shapeTypes.document,
+      components: [
+        {
+          id: 'title',
+          name: 'Title',
+          type: componentTypes.singleLine
+        },
+        {
+          id: 'description',
+          name: 'Description',
+          type: componentTypes.richText
+        },
+        {
+          id: 'content',
+          name: 'Content',
+          type: componentTypes.componentChoice,
+          config: {
+            componentChoice: {
+              choices: [
+                {
+                  id: 'items',
+                  name: 'Items',
+                  type: componentTypes.itemRelations
+                },
+                {
+                  id: 'grid',
+                  name: 'Grid',
+                  type: componentTypes.gridRelations
+                }
+              ]
+            }
+          }
+        }
+      ]
+    };
+
+    const shapesToInject = [Banner, Article, Folder, Product, Collection];
+    (async function injectFurnitureShapes() {
+      if (!TENANT_ID) {
+        console.log('\x1b[31m', `Missing tenant id`);
+        return;
+      }
+      if (!ACCESS_TOKEN_ID || !ACCESS_TOKEN_SECRET) {
+        console.log('\x1b[31m', `Missing token`);
+        return;
+      }
+      let fails = 0;
+      for (let i = 0; i < shapesToInject.length; i++) {
+        const mutation = buildCreateShapeMutation(shapesToInject[i]);
+        const response = await simplyFetchFromGraph({ query: mutation });
+        const { errors } = response;
+        if (errors) {
+          console.log('\x1b[31m', `${shapesToInject[i].name} failed,`);
+
+          for (let i = 0; i < errors.length; i++) {
+            console.log('\x1b[37m', `-${errors[i].message}`);
+            fails++;
+          }
+        } else {
+          console.log(
+            '\x1b[32m',
+            `${shapesToInject[i].name} successfully imported`
+          );
+        }
+      }
+      console.log(
+        fails > 0 ? '\x1b[31m' : '\x1b[32m',
+        `Import completed with ${fails} errors`
+      );
+    })();
+
+    async function simplyFetchFromGraph({ uri = coreUrl, query, variables }) {
+      const body = JSON.stringify({ query, variables });
+      const response = await fetch(uri, {
+        method: 'post',
+        headers: {
+          'content-type': 'application/json',
+          'x-crystallize-access-token-id': ACCESS_TOKEN_ID,
+          'x-crystallize-access-token-secret': ACCESS_TOKEN_SECRET
+        },
+        body
+      });
+
+      if (!response.ok) {
+        throw new Error(await response.text());
+      }
+      return response.json();
+    }
+    ```
+
+    </details>
+
+- After you have created this file, add in your own API keys to the designated areas.
+- Navigate inside of the tiki3-0 subdirectory with the CLI command `cd tiki3-0`.
+- Run the command `npm install` to generate the package-lock.json file & node_modules folder.
+- Additionally, you will need to create a .env file with the following information:
+
+  <details>
+    <summary>.env file snippet.</summary>
+
+    ```env
+      NEXT_PUBLIC_CRYSTALLIZE_TENANT_IDENTIFIER=your-tenant-name-here
+      NEXT_PUBLIC_SERVICE_API_URL=https://service-api-demo.superfast.shop/api/graphql
+      ```
+
+  </details>
+
+- More information on setting up the Crystallize project can be found inside the sub README file within tiki3-0.
+
 ##### Available Scripts
 
-In the project directory, you can run:
+Inside of the tiki3-0 subdirectory, you can run the following scripts:
 
 ###### `npm run dev`
 
