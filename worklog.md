@@ -91,4 +91,7 @@
 |  10:30am 	|  Start re-watching Crystallize tutorial. Begin watching middleware/Service API [tutorial](https://www.youtube.com/watch?v=Jse0uSn2Pps&list=PLiKqsi6CxPy4_za4hNzV4N079OUGeF292&index=3) 	|
 |  11:20am 	|  Build out splash page in PIM. Start watching Vectr tutorial for Modern Potions logo creation. Create Modern Potions typography logo.	|
 |  12:15am 	|  >>Lunch.	|
-|  12:45am 	|  Back at it. Detail work on splash page.	|
+|  12:45pm - 3:45pm 	|  Back at it. Detail work on splash page. Research on how to incorporate PIM "grids" into splash, find an SVG image generator for free online, generating and adding (WIP) social media icon links, tinker with spotify player placement, etc.	|
+|  3:45pm 	|  >>Career services mtg.	|
+|  4:15pm 	|  UI research - color palette work, page animation refresher course, next.js styling research, tropical theme background planning.	|
+|  5:05pm 	|  >>Break.	|
