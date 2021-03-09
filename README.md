@@ -2,13 +2,13 @@
 
 # Modern Potions
 
-![Modern Potions Logo](img/ModernPotionsLogo.png)
+<img src="tiki3-0/img/ModernPotionsLogo.png" alt="Modern Potions logo" width="200px" height="auto">
 
 ## An Immersive E-commerce Experience
 
 ### Authored by Danielle Thompson
 
-### Project Began 2.26.21.
+### Project Began 2.26.21. Last updated 3.11.21.
 
 ### Get in Touch
 
@@ -24,7 +24,7 @@ TODO : add [shields](https://shields.io/)
 
 _No known bugs at this time._
 
-[Report bugs here.](https://github.com/Zahnen/fuzzbeed/issues) | [Request features here.](https://github.com/Zahnen/fuzzbeed/issues)
+[Report bugs here.](https://github.com/danitcodes/-capstone/issues) | [Request features here.](https://github.com/danitcodes/-capstone/issues)
 
 ___
 
