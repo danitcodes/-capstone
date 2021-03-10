@@ -99,10 +99,19 @@
 |  10:00pm 	|  >>Clock out.	|
 
 
->>3.8.21
+>>3.9.21
 
 
 |  Time 	|  Task 	|
 |---	|---	|
 |  8:30am 	|  Getting started. Fight with grids and shapes more. Add to content descriptions, summaries, photos, variants, subscriptions, etc.	|
-|  9:42am 	|  Problems with saving content for subscriptions in PIM.	|
+|  9:42am 	|  Problems with saving content for subscriptions in PIM. Adding lots of single beverages - spirit-free & spirit-full. Add stretch goals.	|
+|  11:16am 	|  Adding topic tags (content mapping) to all beverages for spirit-free vs spirit-full. Fixing duplicate images. Getting content to match in beverages layout. Copy writing content. Adding spirit-free options & subscriptions. Update clothing merch variants, and add topic tags to merch.	|
+|  12:00pm 	|  Work on fixing "Add to basket" button error - currently not adding products. Need to locate secret tokens and such for .env file. Update - will need to connect to Crystallize's service-api.	|
+|  12:15pm 	|  >>Pause for lunch & internship cover letters.	|
+|  2:20pm 	|  Fix broken .env keys that were breaking site 👹. Research & work on getting API keys in for basket & order form to work correctly. Begin [presentation](https://docs.google.com/presentation/d/1bmV2Jmd01ARItux_eN7TghBWJ35dmcxvHMe5r5wT_o8/edit?usp=sharing). Add to stretch goals.	|
+|  4:00pm 	|  Q&A meeting with Shawn to discuss README instructions.	|
+|  4:30pm 	|  Back to presentation work. Finish presentation (save for polishing and maybe one slide if I have time).	|
+|  7:00pm 	| >>Clock out. 	|
+|  8:00pm 	| Polish presentation with notes, better whitespace, graphics, etc. But it's done now! Save for some practice. 	|
+|  9:00pm 	| >>Clock out for real. 	|
