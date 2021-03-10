@@ -131,6 +131,9 @@
 |  Time 	|  Task 	|
 |---	|---	|
 |  8:30am 	|  Add total hours in worklog up.	|
+|  9:00am 	|  >>Cover letters, errand.	|
+|  10:30am 	|  Research & work to get Order API connected. Maybe Core API too. API endpoint testing in Postman. PayPal integration research, starting work. 	|
+|  12:00pm 	|  Work on integrating order and search APIs.	|
 
 
 ---
