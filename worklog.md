@@ -25,9 +25,10 @@
 |  4:30pm	|  Fix default currency in Crystallize db and add to catalogue product details.	|
 |  4:45pm	|   Work on project README bones to get more clear on objectives. Add gift card and subscription options bones to Crystallize.	|
 |  5:00pm	|   Add pictures, prices, & size attributes to product catalog in Crystallize, add new product catalog items, create Modern Potions logo tees for catalog. Add MP logo to README & img folder.	|
-|  6:15pm	|   Clock out.	|
+|  6:15pm	|   >>Clock out.	|
+|  7 hrs	|   TOTAL	|
 
-![End of Day Catalog Progress](img/EndOfDayCatalog_2.26.21.png)
+![End of Day Catalog Progress](tiki3-0/img/EndOfDayCatalog_2.26.21.png)
 
 ---
 
@@ -38,6 +39,7 @@
 |  8:00pm 	|  Test wireframing with Framer. 	|
 |  9:00pm 	|  Work on fixing build error and further familiarizing with pre-built code, Next.js documentation, and setting up Next.js in project. 	|
 |  9:30pm 	|  >>Clock out. 	|
+|  1.5hrs 	|  TOTAL 	|
 
 ---
 
@@ -58,6 +60,7 @@
 |  3:40pm 	|  Familiarize with documents and grids, and create three grids for products, single cocktails, and merch. 	|
 |  4:30pm 	|  Add additional document shapes for banners, carousels, and about components. 	|
 |  5:00pm 	|  >>Career services gear switch. 	|
+|  6.75 hrs 	|  TOTAL 	|
 
 ---
 
@@ -78,6 +81,7 @@
 |  9:15pm 	|  Spotify POST troubleshooting cont. No luck (yet) - POST request fails with 400 error code.	|
 |  10:30pm 	|  WIP -begin to switch gears back to integrate react-spotify-player to embed a widget instead of using the Spotify API.	|
 |  11:00pm 	|  >>Clock out.	|
+|  9hr 45m 	|  TOTAL	|
 
 ---
 
@@ -86,6 +90,7 @@
 
 |  Time 	|  Task 	|
 |---	|---	|
+|  8:30am 	|  >>Standup.	|
 |  9:30am 	|  Research adding in animations with react-spring using Next.js. (Btws - it's not straightforward. See [here](https://ironeko.com/posts/animating-page-transitions-in-nextjs-for-capacitor/))	|
 |  10:20am 	|  GET SPOTIFY PLAYLIST WIDGET ON DOM - the easy way, no react-spotify-player needed!!! 🎉 	|
 |  10:30am 	|  Start re-watching Crystallize tutorial. Begin watching middleware/Service API [tutorial](https://www.youtube.com/watch?v=Jse0uSn2Pps&list=PLiKqsi6CxPy4_za4hNzV4N079OUGeF292&index=3) 	|
@@ -97,6 +102,8 @@
 |  5:05pm 	|  >>Break.	|
 |  7:00pm 	|  Back at it. Canva designing hopeful background for site based on [this pattern](https://dribbble.com/shots/14401526-Tropical-Floral-Seamless-pattern). Tropical background created, but research making svg images into React page backgrounds is dense, several implementations with svg & png have not been successful - WIP. Update unicorn juice photo & N/A price in PIM. Make README more legit with proper description, detailed setup instructions (WIP for Crystallize account info), dropdowns with code snippets, add and size images, add stretch goals, user stories.	|
 |  10:00pm 	|  >>Clock out.	|
+|  11 hours 	|  TOTAL	|
+
 
 
 >>3.9.21
@@ -115,3 +122,19 @@
 |  7:00pm 	| >>Clock out. 	|
 |  8:00pm 	| Polish presentation with notes, better whitespace, graphics, etc. But it's done now! Save for some practice. 	|
 |  9:00pm 	| >>Clock out for real. 	|
+|  9.35hrs 	| TOTAL 	|
+
+
+>>3.10.21
+
+
+|  Time 	|  Task 	|
+|---	|---	|
+|  8:30am 	|  Add total hours in worklog up.	|
+
+
+---
+
+|  Total Time 	|
+|---     	|
+|  45.05	|
