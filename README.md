@@ -56,6 +56,9 @@ Modern Potions is an immersive e-commerce application for a tiki bar to be able 
 - Add in account registering, log in, and log out functionality to save information for future orders.
 - Learn and utilize built-in SEO functionality.
 - Add page for interactive tiki elements.
+- Get a 21+ confirmation page(s).
+- Add a shop section for barware & partner producers.
+- Add a food section to comply with OLCC rules requiring that every two cocktails ordered require a substantive food purchase.
 
 ### Technologies Used
 
