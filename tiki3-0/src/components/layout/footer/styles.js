@@ -11,7 +11,7 @@ export const Outer = styled.footer`
 `;
 
 export const Logo = styled.div`
-  width: 70px;
+  width: 200px;
 `;
 
 export const Powered = styled.div`
@@ -19,15 +19,15 @@ export const Powered = styled.div`
   display: block;
   display: flex;
   align-items: center;
-  font-size: 12px;
-  font-weight: 600;
+  font-size: 14px;
+  font-weight: 400;
 
   p {
     margin: 0;
   }
 
   svg {
-    width: 120px;
+    width: 100px;
   }
 `;
 

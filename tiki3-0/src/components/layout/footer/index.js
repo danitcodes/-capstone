@@ -14,19 +14,22 @@ export default function Footer() {
 
   return (
     <Outer>
-      <Link href="/">
-        <a>
-          <Logo>
-            <img
-              src="/static/110x40_mp_logo.svg"
-              alt=""
-              width="300"
-              height="200"
-            />
-            <p style={{ fontSize: '12px' }}>Portland, OR</p>
-          </Logo>
-        </a>
-      </Link>
+      <Powered>
+        <ul style={{ listStyleType: 'none' }}>
+          <a href="/">
+            <Logo>
+              <img src="/static/110x40_mp_logo.svg" alt="Modern Potions" />
+            </Logo>
+          </a>
+          <p>{t('layout.ecomBy')}</p>
+          <a href="https://crystallize.com" aria-label="crystallize.com">
+            <LogoCrystallize size={10} />
+          </a>
+          <br />
+          <li>Portland, OR</li>
+          <li>Copyright © 2021, D. Thompson</li>
+        </ul>
+      </Powered>
       <NavList>
         <h5>{t('layout.menu')}</h5>
         {mainNavigation?.map((category) => (
@@ -37,12 +40,6 @@ export default function Footer() {
           </li>
         ))}
       </NavList>
-      <Powered>
-        <p>{t('layout.ecomBy')}</p>
-        <a href="https://crystallize.com" aria-label="crystallize.com">
-          <LogoCrystallize size={10} />
-        </a>
-      </Powered>
     </Outer>
   );
 }
