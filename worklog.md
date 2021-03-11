@@ -140,7 +140,9 @@
 | 3:45pm 	|  🎵 Werk, werk, werk, werk, werk.🎵 Add a contact us page with social media and email links. **Finally** figured out how to use grids - blerg.	Next.js research & reading next-SEO [docs](https://github.com/garmeeh/next-seo)  |
 | 4:45pm 	|  Page testing & improving. Footer change & style. Add more graphics to pages. Update splash page. |
 | 8:05pm 	|  Work on deployment with Vercel. SITE SUCCESSFULLY DEPLOYED. Set up Vercel analytics. Read up on Vercel docs. |
-| 9:30pm 	|  Crystallize video on [gift cards & vouchers](https://www.youtube.com/watch?v=O4AbnLXwlTg&t=1s). Dig into Crystallize Slack channel for info about service API integration/boilerplates. Find service API [boilerplate code](https://github.com/CrystallizeAPI/service-api-boilerplate.git) & clone down. |
+| 9:30pm 	|  Crystallize video on [gift cards & vouchers](https://www.youtube.com/watch?v=O4AbnLXwlTg&t=1s). Dig into Crystallize Slack channel for info about service API integration/boilerplates. Find service API [boilerplate code](https://github.com/CrystallizeAPI/service-api-boilerplate.git), clone down, & add to project. Add hours. |
+| 10:00pm 	|  >>Clock out.	|
+|  11.5hrs 	| TOTAL 	|
 
 
 ---
