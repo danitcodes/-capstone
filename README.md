@@ -76,6 +76,7 @@ Modern Potions is an immersive e-commerce application for a tiki bar to be able 
 - Crystallize E-commerce with Next.js + React
 - Crystallize Order API ???
 - `npx @crystallize/cli my-project-name`
+- Vercel - deployment
 - Spotify
 - webpack v.5.11.1
 - Babel v.7.9.6

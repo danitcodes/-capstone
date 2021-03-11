@@ -139,7 +139,7 @@
 | 3:15pm 	|  >>Finish final cover letter.	|
 | 3:45pm 	|  🎵 Werk, werk, werk, werk, werk.🎵 Add a contact us page with social media and email links. **Finally** figured out how to use grids - blerg.	Next.js research & reading next-SEO [docs](https://github.com/garmeeh/next-seo)  |
 | 4:45pm 	|  Page testing & improving. Footer change & style. Add more graphics to pages. Update splash page. |
-| 8:05pm 	|  Work on deployment with Vercel. |
+| 8:05pm 	|  Work on deployment with Vercel. SITE SUCCESSFULLY DEPLOYED. Set up Vercel analytics. Read up on Vercel docs. |
 
 
 ---
