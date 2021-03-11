@@ -4,17 +4,19 @@
 
 <img src="tiki3-0/img/ModernPotionsLogo.png" alt="Modern Potions logo" width="200px" height="auto">
 
-_Logo by Danielle Schmidt. Find more of her amazing art on IG [@forage_and_frost](https://www.instagram.com/forage_and_frost/)_
+_Logo by [@forage_and_frost](https://www.instagram.com/forage_and_frost/)_
 
 ## An Immersive E-commerce Experience
 
 ### Authored by Danielle Thompson
 
-### Project Began 2.26.21. Last updated 3.11.21.
+### Project Began 2.26.21. ![GitHub last commit](https://img.shields.io/github/last-commit/danitcodes/-capstone)
 
-### Get in Touch
-
-danithompson74 at gmail.com | [LinkedIn](https://www.linkedin.com/in/danielle-thompson74/) | [Instagram](https://www.instagram.com/modernpotions.pdx/)
+|  Get In Touch 	|   	|
+|---	|---	|
+|  GitHub 	|  <a href="https://github.com/danitcodes"> ![GitHub followers](https://img.shields.io/github/followers/danitcodes?style=social)	</a>  |
+|  LinkedIn 	|  <a href="https://linkedin.com/in/danielle-thompson74"> <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=2867B2"></a>	|
+|  Instagram 	|  <a href="https://www.instagram.com/modernpotions.pdx/"><img src="https://img.shields.io/badge/-Instagram-black.svg?style=flat&logo=instagram&logoColor=white&colorB=E4405F"></a>	|
 
 </div>
 
@@ -53,6 +55,7 @@ Modern Potions is an immersive e-commerce application for a tiki bar to be able 
 
 ### Stretch Goals
 
+- Connect to Crystallize Service API.
 - Add in account registering, log in, and log out functionality to save information for future orders.
 - Learn and utilize built-in SEO functionality.
 - Add page for interactive tiki elements.
@@ -440,6 +443,6 @@ ___
 
 This software is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
-Copyright (c) 2021 *_Danielle Thompson_*
+![GitHub](https://img.shields.io/github/license/danitcodes/-capstone) Copyright (c) 2021 *_Danielle Thompson_*
 
 </div>

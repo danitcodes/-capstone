@@ -145,6 +145,12 @@
 |  11.5hrs 	| TOTAL 	|
 
 
+>>3.11.21
+
+[JWT](https://medium.com/swlh/jwt-json-web-tokens-user-authentication-in-next-js-web-application-51deab8f2e96) research.
+| 9:00am 	|  Setting the stage.	|
+| 10:00am 	|  Add shields with social links to me and D's IG's, etc. Add stretch goal. Add to Discord channel.	|
+
 ---
 
 |  Total Time 	|
