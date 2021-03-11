@@ -134,6 +134,12 @@
 |  9:00am 	|  >>Cover letters, errand.	|
 |  10:30am 	|  Research & work to get Order API connected. Maybe Core API too. API endpoint testing in Postman. PayPal integration research, starting work. 	|
 |  12:00pm 	|  Work on integrating order and search APIs.	|
+|  1:00pm 	|  Reading deeper in the docs to decipher PIM concepts and hopefully glean more info about API usage.	Create 'about' page content. |
+|  2:30pm 	|  Try again to fix welcome/about/carousel links at bottom of splash - no luck improving, so removed.	|
+| 3:15pm 	|  >>Finish final cover letter.	|
+| 3:45pm 	|  🎵 Werk, werk, werk, werk, werk.🎵 Add a contact us page with social media and email links. **Finally** figured out how to use grids - blerg.	Next.js research & reading next-SEO [docs](https://github.com/garmeeh/next-seo)  |
+| 4:45pm 	|  Page testing & improving. Footer change & style. Add more graphics to pages. Update splash page. |
+| 8:05pm 	|  Work on deployment with Vercel. |
 
 
 ---
