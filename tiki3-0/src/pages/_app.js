@@ -7,7 +7,6 @@ import { BasketProvider } from 'components/basket';
 import { simplyFetchFromGraph } from 'lib/graph';
 import { getLocaleFromContext, defaultLocale } from 'lib/app-config';
 import { I18nextProvider } from 'lib/i18n';
-// import { TikiBackground } from '../../img/MP-immersive.png';
 
 const queryClient = new QueryClient();
 
@@ -26,10 +25,15 @@ function MyApp({ Component, pageProps, commonData }) {
     //   site_name: 'SiteName'
     // },
     // twitter: {
-    //   handle: '@handle',
-    //   site: '@site',
+    //   handle: '@danitcodes',
+    //   site: '@twitter',
     //   cardType: 'summary_large_image'
     // }
+    instagram: {
+      handle: '@modernpotions.pdx',
+      site: '@instagram',
+      cardType: 'summary_large_image'
+    }
   };
 
   return (
@@ -40,13 +44,7 @@ function MyApp({ Component, pageProps, commonData }) {
           <SettingsProvider mainNavigation={mainNavigation}>
             <AuthProvider>
               <BasketProvider locale={locale}>
-                <Component {...pageProps}
-                    // style={{
-                    //   backgroundImage: `${TikiBackground}`,
-                    //   backgroundRepeat: 'no-repeat',
-                    //   backgroundAttachment: 'fixed'
-                    // }}
-                  />
+                <Component {...pageProps} />
               </BasketProvider>
             </AuthProvider>
           </SettingsProvider>
