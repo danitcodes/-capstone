@@ -6,7 +6,7 @@ export async function getStaticProps(context) {
   const locale = getLocaleFromContext(context);
 
   const data = await getData({
-    asPath: '/frontpage-2021',
+    asPath: '/modern-potions',
     language: locale.crystallizeCatalogueLanguage,
     preview
   });
