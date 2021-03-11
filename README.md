@@ -4,6 +4,8 @@
 
 <img src="tiki3-0/img/ModernPotionsLogo.png" alt="Modern Potions logo" width="200px" height="auto">
 
+_Logo by Danielle Schmidt. Find more of her amazing art on IG [@forage_and_frost](https://www.instagram.com/forage_and_frost/)_
+
 ## An Immersive E-commerce Experience
 
 ### Authored by Danielle Thompson
@@ -12,9 +14,7 @@
 
 ### Get in Touch
 
-danithompson74 at gmail.com | [LinkedIn](https://www.linkedin.com/in/danielle-thompson74/)
-
-TODO : add [shields](https://shields.io/)
+danithompson74 at gmail.com | [LinkedIn](https://www.linkedin.com/in/danielle-thompson74/) | [Instagram](https://www.instagram.com/modernpotions.pdx/)
 
 </div>
 
@@ -83,6 +83,7 @@ Modern Potions is an immersive e-commerce application for a tiki bar to be able 
 - ESLint v.7.0.0
 - Some graphics from [Hale Pele](halepele.com) & [MunkTiki](munktiki.com)
 - Some images from [Unsplash](unsplash.com)
+- Modern Potions logo by [@forage_and_frost](https://www.instagram.com/forage_and_frost/)
 - [Canva](canva.com) - Modern Potions typography, splash page backdrop
 - [Pexels](pexels.com) - videos
 - [Nifty Buttons](https://www.niftybuttons.com/) - svg social media icons
@@ -91,7 +92,7 @@ Modern Potions is an immersive e-commerce application for a tiki bar to be able 
 
 #### Setup/Installation Requirements
 
-- To access the live page visit ... TODO
+- To access the live page visit [this site](https://capstone-roan.vercel.app/).
 
 <summary> Running the Project Locally </summary>
 
