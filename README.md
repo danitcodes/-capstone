@@ -59,6 +59,9 @@ Modern Potions is an immersive e-commerce application for a tiki bar to be able 
 - Get a 21+ confirmation page(s).
 - Add a shop section for barware & partner producers.
 - Add a food section to comply with OLCC rules requiring that every two cocktails ordered require a substantive food purchase.
+- Figure out how to do a sliding price scale for gift cards.
+- Implementing security features.
+- Add PayPal in for purchasing.
 
 ### Technologies Used
 
@@ -66,16 +69,15 @@ Modern Potions is an immersive e-commerce application for a tiki bar to be able 
 - Git & GitHub
 - ES6 JavaScript
 - JSX
-- React Framework v17.0.1
+- React Framework v.17.0.1
 - npm v.7.5.2
-- node.js v15.8.0
+- node.js v.15.8.0
 - Next.js v.10.0.7
 - Crystallize E-commerce with Next.js + React
-- GraphQL backend ???
 - Crystallize Order API ???
 - `npx @crystallize/cli my-project-name`
 - Spotify
-- webpack v5.11.1
+- webpack v.5.11.1
 - Babel v.7.9.6
 - ESLint v.7.0.0
 - Some graphics from [Hale Pele](halepele.com) & [MunkTiki](munktiki.com)
@@ -90,7 +92,9 @@ Modern Potions is an immersive e-commerce application for a tiki bar to be able 
 
 - To access the live page visit ... TODO
 
-#### Running the Project Locally
+<summary> Running the Project Locally </summary>
+
+<details>
 
 ###### For Mac Users
 
@@ -111,8 +115,8 @@ Modern Potions is an immersive e-commerce application for a tiki bar to be able 
 
 ###### Cloning the Project
 
+- If you are an Epicodus instructor, prospective employer, or personal friend, and you want to run this specific project locally, please contact me for user access keys at modernpotions.pdx@gmail.com.
 - Go to this [GitHub repository](https://github.com/danitcodes/-capstone) and click the green 'Code' button.
-![Green Code Button](src/components/img/code-button.png)
 - In your CLI, after navigating to the Desktop with `cd Desktop`, clone this application with the following command:`git clone https://github.com/danitcodes/-capstone.git`.
 - (Optional) If you would like to save your own copy to your GitHub account, click the "Fork" button in the upper right hand corner of the main repository page.
 - Navigate to the folder 'capstone' from your CLI with the command `cd capstone`.
@@ -398,6 +402,8 @@ Additionally, a file will also need to be added to the tiki3-0/_repo-utils folde
   </details>
 
 - More information on setting up the Crystallize project can be found inside the sub README file within tiki3-0.
+
+</details>
 
 ##### Available Scripts
 
