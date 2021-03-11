@@ -17,12 +17,18 @@ export default function Footer() {
       <Link href="/">
         <a>
           <Logo>
-            <img src="/static/110x40_mp_logo.svg" alt="" width="300" height="200" />
+            <img
+              src="/static/110x40_mp_logo.svg"
+              alt=""
+              width="300"
+              height="200"
+            />
+            <p style={{ fontSize: '12px' }}>Portland, OR</p>
           </Logo>
         </a>
       </Link>
       <NavList>
-        {/* <h5>{t('layout.menu')}</h5> */}
+        <h5>{t('layout.menu')}</h5>
         {mainNavigation?.map((category) => (
           <li key={category.path}>
             <Link href={category.path}>
