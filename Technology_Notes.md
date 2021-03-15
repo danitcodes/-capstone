@@ -45,3 +45,7 @@ See [account](https://vercel.com/danitcodes/tiki-ecommerce)
 - Proto.io
 
 Both have built-in micro-animations capabilities and look smoother than Fluid, that I used for team week, or some of the other more wieldy options like XD.
+
+## Google Doc Research
+
+[Check it](https://docs.google.com/document/d/1jctw0cZIqBfmszIgffY7sX2CUqu5cyhXS69PnS4Jbhw/edit).
