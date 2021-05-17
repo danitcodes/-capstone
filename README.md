@@ -1,19 +1,20 @@
 <div align="center">
 
-<img src="tiki3-0/img/MP-immersive.png" alt="Back drop preview for webpage" width="600px" height="auto">
-
 # Modern Potions
 
-
-_Logo by [@forage_and_frost](https://www.instagram.com/forage_and_frost/)_
+<img src="tiki3-0/img/MP-immersive.png" alt="Back drop preview for webpage" width="600px" height="auto">
 
 ## An Immersive E-commerce Experience
 
+Visit the [LIVE SITE](https://capstone-roan.vercel.app/)!
+
 ### By Danielle Thompson
 
-### Project Began 2.26.21. ![GitHub last commit](https://img.shields.io/github/last-commit/danitcodes/-capstone)
+### Project Began 2.26.21 ![GitHub last commit](https://img.shields.io/github/last-commit/danitcodes/-capstone)
 
 <img src="tiki3-0/img/ModernPotionsLogo.png" alt="Modern Potions logo" width="200px" height="auto">
+
+_Logo by [@forage_and_frost](https://www.instagram.com/forage_and_frost/)_
 
 |  Get In Touch 	|   	|
 |---	|---	|
@@ -54,19 +55,6 @@ Modern Potions is an immersive e-commerce application for a tiki bar to be able 
 
 ---
 
-### Stretch Goals
-
-- Connect to Crystallize Service API.
-- Add in account registering, log in, and log out functionality to save information for future orders.
-- Learn and utilize built-in SEO functionality.
-- Add page for interactive tiki elements.
-- Get a 21+ confirmation page(s).
-- Add a shop section for barware & partner producers.
-- Add a food section to comply with OLCC rules requiring that every two cocktails ordered require a substantive food purchase.
-- Figure out how to do a sliding price scale for gift cards.
-- Implementing security features.
-- Add PayPal in for purchasing.
-
 ### Technologies Used
 
 - [VS Code](https://code.visualstudio.com/download)
@@ -86,7 +74,7 @@ Modern Potions is an immersive e-commerce application for a tiki bar to be able 
 - Babel v.7.9.6
 - ESLint v.7.0.0
 - Some graphics from [Hale Pele](halepele.com) & [MunkTiki](munktiki.com)
-- Some images from [Unsplash](unsplash.com)
+- Some images by Danielle Thompson (me), some images from [Unsplash](unsplash.com)
 - Modern Potions logo by [@forage_and_frost](https://www.instagram.com/forage_and_frost/)
 - [Canva](canva.com) - Modern Potions typography, splash page backdrop
 - [Pexels](pexels.com) - videos
@@ -409,8 +397,6 @@ Additionally, a file will also need to be added to the tiki3-0/_repo-utils folde
 
 - More information on setting up the Crystallize project can be found inside the sub README file within tiki3-0.
 
-</details>
-
 ##### Available Scripts
 
 Inside of the tiki3-0 subdirectory, you can run the following scripts:
@@ -436,14 +422,30 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
+</details>
+
+---------
+
+### Stretch Goals
+
+- Connect to Crystallize Service API.
+- Add in account registering, log in, and log out functionality to save information for future orders.
+- Learn and utilize built-in SEO functionality.
+- Add page for interactive tiki elements.
+- Get a 21+ confirmation page(s).
+- Add a shop section for barware & partner producers.
+- Add a food section to comply with OLCC rules requiring that every two cocktails ordered require a substantive food purchase.
+- Figure out how to do a sliding price scale for gift cards.
+- Implementing security features.
+- Add PayPal in for purchasing.
+
 ___
 
 <div align="center">
 
-#### Legal, or License
+### Legal, or License
 
-This software is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
-
-![GitHub](https://img.shields.io/github/license/danitcodes/-capstone) Copyright (c) 2021 *_Danielle Thompson_*
+This software is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) ![GitHub](https://img.shields.io/github/license/danitcodes/-capstone).
+Copyright (c) 2021 *_Danielle Thompson_*
 
 </div>
