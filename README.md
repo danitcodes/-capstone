@@ -33,6 +33,8 @@ Modern Potions is an immersive e-commerce application for a tiki bar to be able 
 - There are some holdovers in the available inventory from the Crystallize's e-commerce template.
 - Payment processors are not yet set up.
 - Need to connect to working API for utilizing cart functionality.
+- Filter parameters in beverages and merch need to be adjusted so size is not a duplicate field, and so 16oz is tripled.
+- Merch images are very blurry and need updating.
 
 ---
 
