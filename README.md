@@ -1,26 +1,24 @@
 <div align="center">
 
+<img src="tiki3-0/img/Gif_MP_Header.gif" alt="animated Modern Potions logo" height="200px" width="550px">
+
 # Modern Potions
 
-<img src="tiki3-0/img/MP-immersive.png" alt="Back drop preview for webpage" width="600px" height="auto">
-
 ## An Immersive E-commerce Experience
+
+<!-- <img src="tiki3-0/img/MP-immersive.png" alt="Back drop preview for webpage" width="600px" height="auto"> -->
 
 Visit the [LIVE SITE](https://capstone-roan.vercel.app/)!
 
 ### By Danielle Thompson
+
+<a href="https://github.com/danitcodes"> ![GitHub followers](https://img.shields.io/github/followers/danitcodes?style=social)	</a> <a href="https://linkedin.com/in/danielle-thompson74"> <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=2867B2"></a> <a href="https://www.instagram.com/modernpotions.pdx/"><img src="https://img.shields.io/badge/-Instagram-black.svg?style=flat&logo=instagram&logoColor=white&colorB=E4405F"></a>
 
 ### Project Began 2.26.21 ![GitHub last commit](https://img.shields.io/github/last-commit/danitcodes/-capstone)
 
 <img src="tiki3-0/img/ModernPotionsLogo.png" alt="Modern Potions logo" width="200px" height="auto">
 
 _Logo by [@forage_and_frost](https://www.instagram.com/forage_and_frost/)_
-
-|  Get In Touch 	|   	|
-|---	|---	|
-|  GitHub 	|  <a href="https://github.com/danitcodes"> ![GitHub followers](https://img.shields.io/github/followers/danitcodes?style=social)	</a>  |
-|  LinkedIn 	|  <a href="https://linkedin.com/in/danielle-thompson74"> <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=2867B2"></a>	|
-|  Instagram 	|  <a href="https://www.instagram.com/modernpotions.pdx/"><img src="https://img.shields.io/badge/-Instagram-black.svg?style=flat&logo=instagram&logoColor=white&colorB=E4405F"></a>	|
 
 </div>
 
