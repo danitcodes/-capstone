@@ -1,16 +1,19 @@
 <div align="center">
 
+<img src="tiki3-0/img/MP-immersive.png" alt="Back drop preview for webpage" width="600px" height="auto">
+
 # Modern Potions
 
-<img src="tiki3-0/img/ModernPotionsLogo.png" alt="Modern Potions logo" width="200px" height="auto">
 
 _Logo by [@forage_and_frost](https://www.instagram.com/forage_and_frost/)_
 
 ## An Immersive E-commerce Experience
 
-### Authored by Danielle Thompson
+### By Danielle Thompson
 
 ### Project Began 2.26.21. ![GitHub last commit](https://img.shields.io/github/last-commit/danitcodes/-capstone)
+
+<img src="tiki3-0/img/ModernPotionsLogo.png" alt="Modern Potions logo" width="200px" height="auto">
 
 |  Get In Touch 	|   	|
 |---	|---	|
@@ -33,14 +36,6 @@ ___
 ## Description
 
 Modern Potions is an immersive e-commerce application for a tiki bar to be able to sell merchandise, to go cocktail kits, and cocktail subscriptions. Getting the e-commerce portion of the project fully up and running is the major first phase, which you will currently see reflected in the site. More immersive, elements let interactive animations will be added in additional feature rollouts.
-
-<div align="center">
-
-## Background Preview
-
-<img src="tiki3-0/img/MP-immersive.png" alt="Back drop preview for webpage" width="550px" height="auto">
-
-</div>
 
 ---
 
