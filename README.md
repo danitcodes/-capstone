@@ -46,7 +46,11 @@ Modern Potions is an immersive e-commerce application for a tiki bar to be able 
 |  # 	|  Stories 	|
 |---	|---	|
 |  1 	|  A user should be able view a vibrant, visual splash page with links to additional pages, shopping cart, account, etc. 	|
-|  2 	|   A user should be able to add products to a shopping cart for purchase. 	|
+|  2 	|   WIP - A user should be able to add products to a shopping cart for purchase. 	|
+|  3 	|   WIP - A user should be able to view products in shopping cart. 	|
+|  4 	|   WIP - A user should be able to enter payment and other pertinent shipping information to purchase items in shopping cart. 	|
+|  5 	|   WIP - A user should be able complete a purchase for items in shopping cart. 	|
+|  6 	|   WIP - A user should receive a confirmation email with receipt upon purchasing items in cart. 	|
 
 ---
 
