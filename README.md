@@ -1,44 +1,36 @@
 <div align="center">
 
-# Modern Potions
+# <img align="center" src="tiki3-0/img/Gif_MP_Header.gif" alt="animated Modern Potions logo" height="200px" width="550px">
 
-<img src="tiki3-0/img/MP-immersive.png" alt="Back drop preview for webpage" width="600px" height="auto">
+_Original logo by [@forage_and_frost](https://www.instagram.com/forage_and_frost/)_
 
 ## An Immersive E-commerce Experience
 
-Visit the [LIVE SITE](https://capstone-roan.vercel.app/)!
+<!-- <img src="tiki3-0/img/MP-immersive.png" alt="Back drop preview for webpage" width="600px" height="auto"> -->
 
-### By Danielle Thompson
+### _Visit the [LIVE SITE](https://capstone-roan.vercel.app/)!_
 
-### Project Began 2.26.21 ![GitHub last commit](https://img.shields.io/github/last-commit/danitcodes/-capstone)
+### Project By Danielle Thompson
 
-<img src="tiki3-0/img/ModernPotionsLogo.png" alt="Modern Potions logo" width="200px" height="auto">
+<a href="https://github.com/danitcodes"> ![GitHub followers](https://img.shields.io/github/followers/danitcodes?style=social)	</a> <a href="https://linkedin.com/in/danielle-thompson74"> <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=2867B2"></a> <a href="https://www.instagram.com/modernpotions.pdx/"><img src="https://img.shields.io/badge/-Instagram-black.svg?style=flat&logo=instagram&logoColor=white&colorB=E4405F"></a>
 
-_Logo by [@forage_and_frost](https://www.instagram.com/forage_and_frost/)_
-
-|  Get In Touch 	|   	|
-|---	|---	|
-|  GitHub 	|  <a href="https://github.com/danitcodes"> ![GitHub followers](https://img.shields.io/github/followers/danitcodes?style=social)	</a>  |
-|  LinkedIn 	|  <a href="https://linkedin.com/in/danielle-thompson74"> <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=2867B2"></a>	|
-|  Instagram 	|  <a href="https://www.instagram.com/modernpotions.pdx/"><img src="https://img.shields.io/badge/-Instagram-black.svg?style=flat&logo=instagram&logoColor=white&colorB=E4405F"></a>	|
+### Project Initiated: 2.26.21 ![GitHub last commit](https://img.shields.io/github/last-commit/danitcodes/-capstone)
 
 </div>
 
 ---
 
+## Description
+
+Modern Potions is an immersive e-commerce application for a tiki bar to be able to sell merchandise, to go cocktail kits, and cocktail subscriptions. Getting the e-commerce portion of the project fully up and running is the major first phase, which you will currently see reflected in the site. More immersive, elements let interactive animations will be added in additional feature rollouts.
+
 ### Known Bugs
+
+[Report bugs here.](https://github.com/danitcodes/-capstone/issues) | [Request features here.](https://github.com/danitcodes/-capstone/issues)
 
 - There are some holdovers in the available inventory from the Crystallize's e-commerce template.
 - Payment processors are not yet set up.
 - Need to connect to working API for utilizing cart functionality.
-
-[Report bugs here.](https://github.com/danitcodes/-capstone/issues) | [Request features here.](https://github.com/danitcodes/-capstone/issues)
-
-___
-
-## Description
-
-Modern Potions is an immersive e-commerce application for a tiki bar to be able to sell merchandise, to go cocktail kits, and cocktail subscriptions. Getting the e-commerce portion of the project fully up and running is the major first phase, which you will currently see reflected in the site. More immersive, elements let interactive animations will be added in additional feature rollouts.
 
 ---
 
