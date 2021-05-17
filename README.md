@@ -27,7 +27,9 @@ _Logo by [@forage_and_frost](https://www.instagram.com/forage_and_frost/)_
 
 ### Known Bugs
 
-_Oh, plenty. WIP._
+- There are some holdovers in the available inventory from the Crystallize's e-commerce template.
+- Payment processors are not yet set up.
+- Need to connect to working API for utilizing cart functionality.
 
 [Report bugs here.](https://github.com/danitcodes/-capstone/issues) | [Request features here.](https://github.com/danitcodes/-capstone/issues)
 
