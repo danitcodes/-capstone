@@ -434,6 +434,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 - Figure out how to do a sliding price scale for gift cards.
 - Implementing security features.
 - Add PayPal in for purchasing.
+- Add gamified element of something like "find the happy hour button and get X% off" where there's a clickable button hidden somewhere in the pages at a certain time of day that gives you a coupon.
 
 ___
 
