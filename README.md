@@ -442,7 +442,7 @@ ___
 
 ### Legal, or License
 
-This software is licensed under the [MIT License](https://choosealicense.com/licenses/mit/) ![GitHub](https://img.shields.io/github/license/danitcodes/-capstone).<br/>
+This software is licensed under the [[![GitHub](https://img.shields.io/github/license/danitcodes/-capstone)](https://choosealicense.com/licenses/mit/).<br/>
 Copyright (c) 2021 *_Danielle Thompson_*
 
 </div>
